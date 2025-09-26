@@ -1,0 +1,127 @@
+{
+  "lectureId": "huruf_hijaiyah",
+  "title": "Pengenalan 28 Huruf Hijaiyah",
+  "pages": [
+    {
+      "id": "01HJQM9XH8N0MWRV9X2KPZQT3C",
+      "pageNumber": 1,
+      "title": "Pengenalan dan Huruf Pertama",
+      "blocks": [
+        {
+          "id": "01HJQMA5R6B8KXWZ9Y3LMTQS4D",
+          "blockNumber": 1,
+          "title": "Selamat Datang",
+          "contents": [
+            {
+              "id": "01HJQMAB3F7N2VXDC8Q9HPTK5E",
+              "type": "text",
+              "contentNumber": 1,
+              "markdown": "# Assalamu'alaikum warahmatullahi wabarakatuh!\n\nSelamat datang di perjalanan belajar membaca Al-Qur'an yang indah ini! \n\n## Mengapa Belajar Huruf Hijaiyah?\n\nHuruf Hijaiyah adalah **fondasi** dari semua pembelajaran bahasa Arab. Seperti halnya belajar bahasa Indonesia dimulai dari A-Z, belajar bahasa Arab dimulai dari **Alif** sampai **Ya**.\n\nDengan menguasai huruf-huruf ini, Anda akan dapat:\n- ✅ Membaca Al-Qur'an dengan benar\n- ✅ Memahami teks-teks Islam klasik  \n- ✅ Berkomunikasi dalam bahasa Arab\n\nMari kita mulai perjalanan yang penuh berkah ini!"
+            },
+            {
+              "id": "01HJQMAC1G8O3WYEH9R4IQUL6F",
+              "type": "text",
+              "contentNumber": 2,
+              "markdown": "## Metode Pembelajaran\n\nDalam kelas ini, kita akan menggunakan metode **bertahap** dan **interaktif**:\n\n### 🎯 Pendekatan Kita:\n1. **Pengenalan Visual** - Melihat bentuk huruf\n2. **Pengucapan Audio** - Mendengar bunyi yang benar\n3. **Praktek Menulis** - Melatih muscle memory\n4. **Aplikasi Konteks** - Melihat huruf dalam kata\n\n### 📚 Struktur Pembelajaran:\n- **28 Huruf Hijaiyah** dibagi dalam grup-grup kecil\n- **Contoh kata** untuk setiap huruf\n- **Latihan progresif** dari mudah ke sulit\n\n*\"Dan sungguh telah Kami mudahkan Al-Qur'an untuk pelajaran\"* - QS. Al-Qamar: 17"
+            }
+          ]
+        },
+        {
+          "id": "01HJQMAD2H9P4XZFJ0S5JRVM7G",
+          "blockNumber": 2,
+          "title": "Huruf Kelompok Pertama (1-7)",
+          "contents": [
+            {
+              "id": "01HJQMAE3J0Q5YAGK1T6KSWN8H",
+              "type": "text",
+              "contentNumber": 1,
+              "markdown": "# Kelompok Pertama: 7 Huruf Awal\n\nMari kita pelajari 7 huruf pertama dari Hijaiyah. Setiap huruf memiliki karakteristik unik yang akan membantu Anda mengingatnya.\n\n## 🎯 Target Pembelajaran\nSetelah menyelesaikan blok ini, Anda akan dapat:\n- Mengenali 7 huruf pertama Hijaiyah\n- Mengucapkan bunyi setiap huruf dengan benar\n- Membedakan huruf berdasarkan titik dan bentuknya"
+            },
+            {
+              "id": "01HJQMAF4K1R6ZBHL2U7LTXO9I",
+              "type": "text",
+              "contentNumber": 2,
+              "markdown": "## 1. أ (Alif) - Huruf Pertama\n\n### Bentuk dan Ciri:\n- **Bentuk**: Seperti tongkat lurus vertikal\n- **Tidak ada titik**\n- **Posisi**: Bisa di awal, tengah, atau akhir kata\n\n### Bunyi:\nSeperti huruf **'a'** dalam kata \"**ayah**\"\n\n### Contoh Penggunaan:\n- **أَبٌ** (ab) = ayah\n- **إِنَّ** (inna) = sesungguhnya\n- **اللهُ** (Allah) = Allah\n\n> 💡 **Tips Mengingat**: Alif adalah huruf pertama dan paling sederhana - seperti angka 1 yang lurus!"
+            },
+            {
+              "id": "01HJQMAG5L2S7ACIM3V8MUYP0J",
+              "type": "text",
+              "contentNumber": 3,
+              "markdown": "## 2. ب (Ba) - Perahu dengan Titik\n\n### Bentuk dan Ciri:\n- **Bentuk**: Seperti perahu atau mangkuk terbalik\n- **Memiliki 1 titik di bawah**\n- **Dapat tersambung** dengan huruf sebelum dan sesudahnya\n\n### Bunyi:\nSeperti huruf **'b'** dalam kata \"**buku**\"\n\n### Contoh Penggunaan:\n- **بَيْتٌ** (bait) = rumah\n- **بِسْمِ** (bismi) = dengan nama\n- **كِتَابٌ** (kitab) = buku\n\n> 💡 **Tips Mengingat**: Ba seperti **B**erahu dengan **B**intik satu di bawah!"
+            },
+            {
+              "id": "01HJQMAHZ7Q1XRST2K5MNBVC8D",
+              "type": "quiz",
+              "contentNumber": 4,
+              "quizData": {
+                "question": "Berapa jumlah titik pada huruf Ba (ب)?",
+                "options": [
+                  "Tidak ada titik",
+                  "1 titik di bawah",
+                  "2 titik di atas",
+                  "3 titik di atas"
+                ],
+                "correctAnswerIndex": 1,
+                "explanation": "Huruf Ba (ب) memiliki 1 titik di bawah huruf. Inilah yang membedakannya dari huruf Ta (ت) yang memiliki 2 titik di atas, dan huruf Tsa (ث) yang memiliki 3 titik di atas."
+              }
+            },
+            {
+              "id": "01HJQMAH6M3T8BDJN4W9NVZQ1K",
+              "type": "text",
+              "contentNumber": 5,
+              "markdown": "## 3. ت (Ta) - Dua Mata di Atas\n\n### Bentuk dan Ciri:\n- **Bentuk**: Sama seperti Ba tapi...\n- **Memiliki 2 titik di atas** (seperti mata)\n- **Dapat tersambung** dengan huruf lain\n\n### Bunyi:\nSeperti huruf **'t'** dalam kata \"**topi**\"\n\n### Contoh Penggunaan:\n- **تِينٌ** (tin) = buah tin\n- **بَيْتٌ** (bait) = rumah (Ta di tengah)\n- **الْوَقْتُ** (al-waqtu) = waktu\n\n> 💡 **Tips Mengingat**: Ta punya **T**itik **T**wo (dua) di atas!"
+            },
+            {
+              "id": "01HJQMAI8YR2ZSTU3L6NOCWD9E",
+              "type": "quiz",
+              "contentNumber": 6,
+              "quizData": {
+                "question": "Manakah perbedaan utama antara huruf Ba (ب) dan Ta (ت)?",
+                "options": [
+                  "Ba memiliki titik di atas, Ta memiliki titik di bawah",
+                  "Ba memiliki 1 titik di bawah, Ta memiliki 2 titik di atas",
+                  "Ba tidak memiliki titik, Ta memiliki 1 titik di atas",
+                  "Ba dan Ta memiliki bentuk yang berbeda"
+                ],
+                "correctAnswerIndex": 1,
+                "explanation": "Huruf Ba (ب) dan Ta (ت) memiliki bentuk dasar yang sama, tetapi Ba memiliki 1 titik di bawah sedangkan Ta memiliki 2 titik di atas. Perbedaan titik ini adalah cara utama untuk membedakan kedua huruf tersebut."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01HJQMAI7N4U9CEKO5X0OWAR2L",
+      "pageNumber": 2,
+      "title": "Melanjutkan Huruf dan Praktek",
+      "blocks": [
+        {
+          "id": "01HJQMAJ8O5V0DFLP6Y1PXBS3M",
+          "blockNumber": 1,
+          "title": "Huruf Kelompok Kedua (4-7)",
+          "contents": [
+            {
+              "id": "01HJQMAK9P6W1EGMQ7Z2QYCT4N",
+              "type": "text",
+              "contentNumber": 1,
+              "markdown": "## 4. ث (Tsa) - Tiga Titik Istimewa\n\n### Bentuk dan Ciri:\n- **Bentuk**: Sama seperti Ta dan Ba\n- **Memiliki 3 titik di atas** (unik!)\n- **Bunyi khusus** yang tidak ada dalam bahasa Indonesia\n\n### Bunyi:\nSeperti **'th'** dalam bahasa Inggris \"**think**\" (lidah di antara gigi)\n\n### Contoh Penggunaan:\n- **ثَوْبٌ** (tsaub) = baju\n- **ثَلَاثَةٌ** (tsalatsah) = tiga\n- **حَدِيثٌ** (hadits) = hadits\n\n> 💡 **Tips Mengingat**: Tsa = **T**iga titik **S**pecia**A**l!"
+            },
+            {
+              "id": "01HJQMAL0Q7X2FHNR8A3RZDU5O",
+              "type": "text",
+              "contentNumber": 2,
+              "markdown": "## 5. ج (Jim) - Jepit dengan Titik\n\n### Bentuk dan Ciri:\n- **Bentuk**: Seperti jepit atau kait\n- **Memiliki 1 titik di dalam/tengah**\n- **Bentuk unik** yang mudah diingat\n\n### Bunyi:\nSeperti huruf **'j'** dalam kata \"**jalan**\"\n\n### Contoh Penggunaan:\n- **جَمَلٌ** (jamal) = unta\n- **مَسْجِدٌ** (masjid) = masjid\n- **رَجُلٌ** (rajul) = laki-laki\n\n> 💡 **Tips Mengingat**: Jim seperti **J**epit dengan satu **J**itik di tengah!"
+            },
+            {
+              "id": "01HJQMAM1R8Y3GIOS9B4SAEV6P",
+              "type": "text",
+              "contentNumber": 3,
+              "markdown": "## 6. ح (Ha) - Jepit Tanpa Titik\n\n### Bentuk dan Ciri:\n- **Bentuk**: Sama seperti Jim tapi **tanpa titik**\n- **Polos** tanpa hiasan apapun\n- **Bunyi tenggorokan** yang khas\n\n### Bunyi:\nSeperti **menghembuskan napas** pelan dari tenggorokan\n\n### Contoh Penggunaan:\n- **حَقٌّ** (haq) = benar, hak\n- **مُحَمَّدٌ** (Muhammad) = Muhammad\n- **رَحْمَةٌ** (rahmah) = rahmat\n\n> 💡 **Tips Mengingat**: Ha = **H**alus tanpa titik, **H**embuskan napas!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

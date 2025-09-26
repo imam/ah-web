@@ -1,0 +1,123 @@
+{
+  "id": "harakat_practice",
+  "title": "Latihan Harakat",
+  "description": "Belajar harakat fathah, kasrah, dan dhammah",
+  "difficulty": "intermediate",
+  "category": "Harakat",
+  "timeLimit": 240,
+  "passingScore": 75,
+  "iconName": "quiz",
+  "colorHex": "#FF9800",
+  "exercises": [
+    {
+      "id": "hr_001",
+      "question": "Bagaimana cara membaca harakat fathah (َ)?",
+      "options": ["Seperti bunyi 'a'", "Seperti bunyi 'i'", "Seperti bunyi 'u'", "Tidak bersuara"],
+      "correctAnswerIndex": 0,
+      "explanation": "Fathah (َ) dibaca dengan bunyi 'a', seperti dalam kata 'bapa'.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["fathah", "bunyi-a", "harakat-dasar"]
+    },
+    {
+      "id": "hr_002",
+      "question": "Harakat kasrah (ِ) menghasilkan bunyi:",
+      "options": ["a", "i", "u", "e"],
+      "correctAnswerIndex": 1,
+      "explanation": "Kasrah (ِ) dibaca dengan bunyi 'i', seperti dalam kata 'ini'.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["kasrah", "bunyi-i", "harakat-dasar"]
+    },
+    {
+      "id": "hr_003",
+      "question": "Bagaimana bunyi dari dhammah (ُ)?",
+      "options": ["a", "i", "u", "o"],
+      "correctAnswerIndex": 2,
+      "explanation": "Dhammah (ُ) dibaca dengan bunyi 'u', seperti dalam kata 'buku'.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["dhammah", "bunyi-u", "harakat-dasar"]
+    },
+    {
+      "id": "hr_004",
+      "question": "Bagaimana cara membaca بَ?",
+      "options": ["Ba", "Bi", "Bu", "Be"],
+      "correctAnswerIndex": 0,
+      "explanation": "بَ (Ba dengan fathah) dibaca 'Ba'.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["ba", "fathah", "aplikasi"]
+    },
+    {
+      "id": "hr_005",
+      "question": "Bagaimana cara membaca تِ?",
+      "options": ["Ta", "Ti", "Tu", "Te"],
+      "correctAnswerIndex": 1,
+      "explanation": "تِ (Ta dengan kasrah) dibaca 'Ti'.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["ta", "kasrah", "aplikasi"]
+    },
+    {
+      "id": "hr_006",
+      "question": "Bagaimana cara membaca ثُ?",
+      "options": ["Tsa", "Tsi", "Tsu", "Tse"],
+      "correctAnswerIndex": 2,
+      "explanation": "ثُ (Tsa dengan dhammah) dibaca 'Tsu'.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["tsa", "dhammah", "aplikasi"]
+    },
+    {
+      "id": "hr_007",
+      "question": "Apa yang dimaksud dengan sukun (ْ)?",
+      "options": ["Bunyi panjang", "Tidak berharakat/mati", "Bunyi ganda", "Bunyi lemah"],
+      "correctAnswerIndex": 1,
+      "explanation": "Sukun (ْ) menandakan huruf yang tidak berharakat atau mati.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["sukun", "mati", "tidak-berharakat"]
+    },
+    {
+      "id": "hr_008",
+      "question": "Manakah yang menunjukkan tasydid (ّ)?",
+      "options": ["Bunyi panjang", "Bunyi ganda/tebal", "Bunyi lemah", "Tidak bersuara"],
+      "correctAnswerIndex": 1,
+      "explanation": "Tasydid (ّ) menandakan huruf yang dibaca ganda atau tebal.",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "tags": ["tasydid", "ganda", "tebal"]
+    },
+    {
+      "id": "hr_009",
+      "question": "Bagaimana cara membaca كَتَبَ?",
+      "options": ["Kitaba", "Kataba", "Kutaba", "Ketaba"],
+      "correctAnswerIndex": 1,
+      "explanation": "كَتَبَ dibaca 'Kataba' karena semua huruf berharakat fathah.",
+      "type": "multipleChoice",
+      "difficulty": "advanced",
+      "category": "Harakat",
+      "tags": ["kataba", "kata-lengkap", "fathah-semua"]
+    },
+    {
+      "id": "hr_010",
+      "question": "Apa perbedaan antara alif (ا) dan fathah panjang (اَ)?",
+      "options": ["Tidak ada perbedaan", "Alif lebih panjang", "Fathah panjang untuk mad", "Alif hanya di awal kata"],
+      "correctAnswerIndex": 2,
+      "explanation": "Fathah panjang digunakan untuk mad (bacaan panjang) dalam kata.",
+      "type": "multipleChoice",
+      "difficulty": "advanced",
+      "category": "Harakat",
+      "tags": ["alif", "mad", "panjang", "fathah"]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "lectureId": "harakat_dasar",
+  "title": "Harakat: Fathah, Kasrah, Dhammah",
+  "pages": [
+    {
+      "id": "01HJQMAN2S9Z4HJPT0C5TBFW7Q",
+      "pageNumber": 1,
+      "title": "Pengenalan Harakat",
+      "blocks": [
+        {
+          "id": "01HJQMAO3T0A5IKQU1D6UCGX8R",
+          "blockNumber": 1,
+          "title": "Apa itu Harakat?",
+          "contents": [
+            {
+              "id": "01HJQMAP4U1B6JLRV2E7VDHY9S",
+              "type": "text",
+              "contentNumber": 1,
+              "markdown": "# Mengenal Harakat dalam Bahasa Arab\n\nAssalamu'alaikum! Setelah mempelajari huruf Hijaiyah, sekarang kita akan mempelajari **harakat**.\n\n## Apa itu Harakat?\n\n**Harakat** adalah tanda baca dalam bahasa Arab yang menentukan cara mengucapkan huruf. Tanpa harakat, huruf Arab tidak dapat dibaca dengan benar.\n\n### Analogi Sederhana:\nBayangkan harakat seperti \"**aksara vokal**\" dalam bahasa Indonesia:\n- Jika dalam bahasa Indonesia kita punya: a, i, u, e, o\n- Dalam bahasa Arab kita punya harakat yang menentukan bunyi vokal\n\n### Pentingnya Harakat:\nDengan harakat yang berbeda, satu huruf yang sama bisa memiliki makna yang berbeda!"
+            },
+            {
+              "id": "01HJQMAQ5V2C7KMSW3F8WEIZ0T",
+              "type": "text",
+              "contentNumber": 2,
+              "markdown": "## Tiga Harakat Utama\n\nAda tiga harakat dasar yang **wajib** dikuasai:\n\n### 1. َ (Fathah) \n- **Bentuk**: Garis miring kecil di **atas** huruf\n- **Bunyi**: \"**a**\" seperti dalam \"**ayah**\"\n\n### 2. ِ (Kasrah)\n- **Bentuk**: Garis miring kecil di **bawah** huruf  \n- **Bunyi**: \"**i**\" seperti dalam \"**ini**\"\n\n### 3. ُ (Dhammah)\n- **Bentuk**: Seperti huruf \"و\" kecil di **atas** huruf\n- **Bunyi**: \"**u**\" seperti dalam \"**buku**\"\n\n## Contoh Perbedaan Makna:\n- **كَتَبَ** (kataba) = dia menulis\n- **كُتُبٌ** (kutub) = buku-buku  \n- **كِتَابٌ** (kitab) = buku\n\n> 🎯 **Target**: Setelah mempelajari ini, Anda akan bisa membaca kata Arab dengan benar!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

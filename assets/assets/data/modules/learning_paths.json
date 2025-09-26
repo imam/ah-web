@@ -1,0 +1,85 @@
+{
+  "paths": [
+    {
+      "id": "baca_kitab_8_jam",
+      "title": "Kelas Bisa Baca Kitab 8 Jam",
+      "description": "Program komprehensif untuk menguasai keterampilan membaca kitab Arab dalam waktu singkat",
+      "isDefault": true,
+      "sections": [
+        {
+          "id": "foundation",
+          "title": "Foundation - Mengenal Huruf Arab",
+          "description": "Dasar-dasar pengenalan huruf, harakat, dan cara baca",
+          "order": 1,
+          "lectures": [
+            "huruf_hijaiyah",
+            "harakat_dasar",
+            "sukun_tasydid",
+            "huruf_bersambung"
+          ]
+        },
+        {
+          "id": "vocab_builder",
+          "title": "Vocab Builder - Kosakata Dasar",
+          "description": "Membangun kosakata fundamental untuk membaca kitab",
+          "order": 2,
+          "lectures": [
+            "kata_ganti",
+            "kata_depan",
+            "kata_kerja",
+            "kata_benda",
+            "kata_sifat"
+          ]
+        },
+        {
+          "id": "grammar_essentials",
+          "title": "Grammar Essentials - Nahwu Dasar",
+          "description": "Tata bahasa Arab yang wajib dikuasai",
+          "order": 3,
+          "lectures": [
+            "grammar_001_jenis_kata",
+            "mubtada_khabar",
+            "fiil_fail",
+            "irab_dasar",
+            "mudhaaf"
+          ]
+        },
+        {
+          "id": "reading_practice",
+          "title": "Reading Practice - Latihan Membaca",
+          "description": "Praktek membaca teks Arab secara bertahap",
+          "order": 4,
+          "lectures": [
+            "kalimat_sederhana",
+            "struktur_ayat",
+            "hadits_pendek",
+            "kitab_klasik"
+          ]
+        },
+        {
+          "id": "speed_reading",
+          "title": "Speed Reading Techniques",
+          "description": "Teknik membaca cepat dan efektif",
+          "order": 5,
+          "lectures": [
+            "skimming_teknik",
+            "pattern_recognition",
+            "chunking_method"
+          ]
+        },
+        {
+          "id": "final_challenge",
+          "title": "Final Challenge - Baca Kitab 8 Jam",
+          "description": "Tantangan akhir: menyelesaikan satu kitab dalam 8 jam",
+          "order": 6,
+          "lectures": [
+            "persiapan_mental",
+            "strategi_waktu",
+            "final_challenge",
+            "evaluasi_sertifikat"
+          ]
+        }
+      ]
+    }
+  ]
+}

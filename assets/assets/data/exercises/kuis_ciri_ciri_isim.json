@@ -1,0 +1,223 @@
+{
+  "id": "kuis_ciri_ciri_isim",
+  "title": "Kuis Ciri-Ciri Isim",
+  "description": "Menguji pemahaman tentang tanda-tanda atau ciri-ciri kata benda (isim) dalam tata bahasa Arab.",
+  "difficulty": "beginner",
+  "category": "Tata Bahasa",
+  "timeLimit": 600,
+  "passingScore": 75,
+  "iconName": "grammar",
+  "colorHex": "#9C27B0",
+  "exercises": [
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Mana di antara kata berikut ini yang merupakan isim karena diawali dengan Alif Lam (ال)?",
+      "options": [
+        "الْكِتَابُ",
+        "يَكْتُبُ",
+        "قَرَأَ",
+        "فِي"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Kata 'الْكِتَابُ' adalah isim karena memiliki ciri diawali dengan Alif Lam (ال), yang merupakan salah satu tanda utama dari isim.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "alif lam",
+        "tata bahasa",
+        "nahwu"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Apa tanda ke-isim-an pada kata 'البَيْتُ' (rumah itu)?",
+      "options": [
+        "Diakhiri dengan tanwin",
+        "Diawali dengan Alif Lam (ال)",
+        "Didahului oleh huruf jarr",
+        "Diawali oleh huruf nida'"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Tanda bahwa kata 'البَيْتُ' adalah isim adalah karena ia diawali dengan Alif Lam (ال). Kata yang memiliki Alif Lam sudah pasti isim.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "alif lam",
+        "tanda isim",
+        "gramatika"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Kata manakah di bawah ini yang merupakan isim karena berakhiran tanwin?",
+      "options": [
+        "يَشْتَرِي",
+        "تَتَزَيَّنُ",
+        "قَلَمٌ",
+        "عَلَى"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Kata 'قَلَمٌ' adalah isim karena memiliki ciri berakhiran tanwin (ــٌ). Tanwin adalah tanda pasti bahwa sebuah kata adalah isim.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "tanwin",
+        "tata bahasa",
+        "nahwu"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Apa dalil bahwa kata 'سَاعَةٌ' (jam) adalah sebuah isim?",
+      "options": [
+        "Karena ada huruf 'س' di depan",
+        "Karena bisa dipanggil dengan 'يَا'",
+        "Karena diawali Alif Lam",
+        "Karena diakhiri dengan tanwin"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Dalil atau bukti bahwa 'سَاعَةٌ' adalah isim adalah karena kata tersebut diakhiri dengan tanwin. Tanwin adalah salah satu ciri khas isim.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "tanwin",
+        "tanda isim",
+        "dalil"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Manakah contoh yang menunjukkan sebuah isim setelah huruf nida' (panggilan)?",
+      "options": [
+        "يَا رَجُلٌ",
+        "اُطْلُبْ",
+        "هَلْ",
+        "يَدْرُسُ"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Frasa 'يَا رَجُلٌ' (Wahai pria!) menunjukkan kata 'رَجُلٌ' adalah isim karena didahului oleh huruf nida' (panggilan) yaitu 'يَا'.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "huruf nida",
+        "panggilan",
+        "tata bahasa"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Dalam frasa 'إِلَى الْمَدْرَسَةِ', kata 'الْمَدْرَسَةِ' adalah isim. Apa alasannya?",
+      "options": [
+        "Karena diakhiri dengan ta' marbuthah (ة)",
+        "Karena berakhiran tanwin",
+        "Karena didahului huruf jarr 'إِلَى'",
+        "Karena merupakan nama tempat"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Salah satu tanda isim adalah didahului oleh huruf jarr. Dalam frasa ini, 'الْمَدْرَسَةِ' adalah isim karena didahului oleh huruf jarr 'إِلَى' (ke).",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "huruf jarr",
+        "tata bahasa",
+        "nahwu"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Pada kalimat 'يَكْتُبُ رَجُلٌ فِي المَدْرَسَةِ', kata manakah yang BUKAN merupakan isim?",
+      "options": [
+        "يَكْتُبُ",
+        "رَجُلٌ",
+        "فِي",
+        "المَدْرَسَةِ"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Kata 'يَكْتُبُ' adalah fi'il (kata kerja) yang berarti 'menulis'. 'رَجُلٌ' adalah isim (tanwin), dan 'المَدْرَسَةِ' adalah isim (alif lam \u0026 didahului huruf jarr). 'فِي' adalah huruf jarr.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "fiil",
+        "analisis kalimat",
+        "gramatika"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Dari kalimat 'يَكْتُبُ رَجُلٌ فِي المَدْرَسَةِ', apa tanda yang menunjukkan bahwa 'رَجُلٌ' adalah isim?",
+      "options": [
+        "Diawali Alif Lam",
+        "Didahului huruf jarr",
+        "Memiliki tanwin di akhir",
+        "Merupakan nama orang"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Kata 'رَجُلٌ' dipastikan sebagai isim karena memiliki tanda tanwin di akhir katanya.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "tanwin",
+        "analisis kalimat",
+        "nahwu"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Kata 'المَدْرَسَةِ' pada kalimat tersebut adalah isim. Manakah di bawah ini yang merupakan tandanya?",
+      "options": [
+        "Hanya karena memiliki tanwin",
+        "Hanya karena didahului huruf jarr",
+        "Memiliki Alif Lam dan didahului huruf jarr",
+        "Hanya karena berakhiran kasrah"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Kata 'المَدْرَسَةِ' memiliki dua tanda ke-isim-an dalam kalimat ini: diawali Alif Lam (ال) dan didahului oleh huruf jarr (فِي).",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "alif lam",
+        "huruf jarr",
+        "tanda ganda"
+      ]
+    },
+    {
+      "id": "kucici_01k37zxz",
+      "question": "Manakah di bawah ini yang BUKAN merupakan ciri-ciri dari sebuah isim?",
+      "options": [
+        "Dapat diawali dengan Alif Lam (ال)",
+        "Dapat diakhiri dengan tanwin",
+        "Dapat didahului huruf jarr",
+        "Selalu menunjukkan waktu lampau"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Menunjukkan waktu (lampau, sekarang, atau akan datang) adalah ciri dari fi'il (kata kerja), bukan isim (kata benda).",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "tags": [
+        "isim",
+        "ciri-ciri",
+        "konsep dasar",
+        "tata bahasa"
+      ]
+    }
+  ]
+}

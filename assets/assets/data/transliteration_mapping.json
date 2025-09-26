@@ -1,0 +1,109 @@
+{
+  "basic_mapping": {
+    "a": "ا",
+    "b": "ب",
+    "t": "ت",
+    "j": "ج",
+    "d": "د",
+    "r": "ر",
+    "z": "ز",
+    "s": "س",
+    "f": "ف",
+    "q": "ق",
+    "k": "ك",
+    "l": "ل",
+    "m": "م",
+    "n": "ن",
+    "h": "ه",
+    "w": "و",
+    "y": "ي",
+    "c": "ث",
+    "x": "خ",
+    "v": "ذ",
+    "$": "ش",
+    "R": "غ"
+  },
+  "single_characters": {
+    "g": "ع"
+  },
+  "emphatic_mapping": {
+    "H": "ح",
+    "S": "ص", 
+    "D": "ض",
+    "T": "ط",
+    "Z": "ظ"
+  },
+  "diacritical_combinations": {
+    "t'": "ث",
+    "H'": "خ",
+    "d'": "ذ",
+    "s'": "ش",
+    "g'": "غ",
+    "T'": "ظ"
+  },
+  "harakat_mapping": {
+    "==a": "ً",
+    "==i": "ٍ", 
+    "==u": "ٌ",
+    "=a": "َ",
+    "=i": "ِ",
+    "=u": "ُ",
+    "=w": "ّ",
+    "=o": "ْ",
+    "=A": "ً",
+    "=I": "ٍ",
+    "=U": "ٌ"
+  },
+  "special_characters": {
+    "2": "ء",
+    "|": "آ",
+    "&": "ة",
+    "-": "ء",
+    "y--": "ئ",
+    "w--": "ؤ",
+    "a--": "إ",
+    "-a": "أ",
+    "aa": "آ",
+    "Y": "ى",
+    "h'": "ة",
+    "la": "لا"
+  },
+  "numeric_alternatives": {
+    "7": "ح",
+    "9": "ص",
+    "6": "ض",
+    "3": "ع",
+    "4": "ظ"
+  },
+  "eastern_arabic_numerals": {
+    "1=": "١",
+    "2=": "٢",
+    "3=": "٣",
+    "4=": "٤",
+    "5=": "٥",
+    "6=": "٦",
+    "7=": "٧",
+    "8=": "٨",
+    "9=": "٩",
+    "0=": "٠"
+  },
+  "extended_combinations": {
+  },
+  "processing_order": [
+    "harakat_mapping",
+    "eastern_arabic_numerals",
+    "extended_combinations",
+    "diacritical_combinations",
+    "special_characters",
+    "emphatic_mapping",
+    "numeric_alternatives",
+    "basic_mapping",
+    "single_characters"
+  ],
+  "configuration": {
+    "case_sensitive": true,
+    "multi_char_support": true,
+    "rtl_output": true,
+    "debounce_ms": 300
+  }
+}

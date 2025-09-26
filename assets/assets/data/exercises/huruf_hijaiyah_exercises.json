@@ -1,0 +1,143 @@
+{
+  "id": "huruf_hijaiyah_practice",
+  "title": "Latihan Huruf Hijaiyah",
+  "description": "Praktik mengenal 28 huruf Arab dengan latihan pilihan ganda",
+  "difficulty": "beginner",
+  "category": "Huruf Hijaiyah",
+  "timeLimit": 120,
+  "passingScore": 70,
+  "iconName": "quiz",
+  "colorHex": "#4CAF50",
+  "exercises": [
+    {
+      "id": "hh_001",
+      "question": "Apa huruf pertama dalam abjad Arab?",
+      "options": ["ا (Alif)", "ب (Ba)", "ت (Ta)", "ث (Tsa)"],
+      "correctAnswerIndex": 0,
+      "explanation": "Alif (ا) adalah huruf pertama dalam abjad Arab dan tidak memiliki titik.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["alif", "abjad", "huruf-pertama"]
+    },
+    {
+      "id": "hh_002",
+      "question": "Berapa titik yang dimiliki huruf Ba (ب)?",
+      "options": [
+        "Tidak ada titik",
+        "1 titik di bawah",
+        "2 titik di atas",
+        "3 titik di bawah"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Huruf Ba (ب) memiliki 1 titik yang terletak di bawah huruf.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["ba", "titik", "huruf-kedua"]
+    },
+    {
+      "id": "hh_003",
+      "question": "Bagaimana cara menulis huruf Ta (ت)?",
+      "options": [
+        "1 titik di atas",
+        "2 titik di atas",
+        "3 titik di atas",
+        "Tidak ada titik"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Huruf Ta (ت) ditulis dengan 2 titik di atas huruf.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["ta", "titik-atas", "huruf-ketiga"]
+    },
+    {
+      "id": "hh_004",
+      "question": "Huruf manakah yang memiliki 3 titik di atas?",
+      "options": ["Alif (ا)", "Ba (ب)", "Ta (ت)", "Tsa (ث)"],
+      "correctAnswerIndex": 3,
+      "explanation": "Huruf Tsa (ث) memiliki 3 titik yang terletak di atas huruf.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["tsa", "tiga-titik", "huruf-keempat"]
+    },
+    {
+      "id": "hh_005",
+      "question": "Huruf Jim (ج) memiliki berapa titik?",
+      "options": [
+        "Tidak ada titik",
+        "1 titik di bawah",
+        "1 titik di atas",
+        "2 titik di bawah"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Huruf Jim (ج) memiliki 1 titik yang terletak di bawah huruf.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["jim", "titik-bawah"]
+    },
+    {
+      "id": "hh_006",
+      "question": "Manakah yang merupakan huruf Ha (ح)?",
+      "options": ["ح", "خ", "ه", "ة"],
+      "correctAnswerIndex": 0,
+      "explanation": "Huruf Ha (ح) tidak memiliki titik dan berbentuk seperti yang ditampilkan.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["ha", "tanpa-titik"]
+    },
+    {
+      "id": "hh_007",
+      "question": "Huruf Kha (خ) berbeda dengan Ha (ح) karena memiliki:",
+      "options": [
+        "1 titik di atas",
+        "1 titik di bawah",
+        "2 titik di atas",
+        "3 titik di atas"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Huruf Kha (خ) memiliki 1 titik di atas yang membedakannya dengan Ha (ح).",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["kha", "perbedaan", "ha"]
+    },
+    {
+      "id": "hh_008",
+      "question": "Huruf Dal (د) dan Dzal (ذ), manakah yang memiliki titik?",
+      "options": ["Dal (د)", "Dzal (ذ)", "Keduanya", "Tidak keduanya"],
+      "correctAnswerIndex": 1,
+      "explanation": "Dzal (ذ) memiliki 1 titik di atas, sedangkan Dal (د) tidak memiliki titik.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["dal", "dzal", "perbandingan"]
+    },
+    {
+      "id": "hh_009",
+      "question": "Berapa total huruf dalam abjad Arab (huruf hijaiyah)?",
+      "options": ["26 huruf", "28 huruf", "30 huruf", "32 huruf"],
+      "correctAnswerIndex": 1,
+      "explanation": "Abjad Arab terdiri dari 28 huruf hijaiyah.",
+      "type": "multipleChoice",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "tags": ["jumlah", "total", "abjad"]
+    },
+    {
+      "id": "hh_010",
+      "question": "Manakah urutan huruf yang benar?",
+      "options": ["ا، ب، ت، ث", "ا، ت، ب، ث", "ب، ا، ت، ث", "ا، ب، ث، ت"],
+      "correctAnswerIndex": 0,
+      "explanation": "Urutan huruf hijaiyah yang benar adalah Alif (ا), Ba (ب), Ta (ت), Tsa (ث).",
+      "type": "multipleChoice",
+      "difficulty": "intermediate",
+      "category": "Huruf Hijaiyah",
+      "tags": ["urutan", "sekuens", "abjad"]
+    }
+  ]
+}

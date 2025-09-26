@@ -1,0 +1,55 @@
+{
+  "lectures": [
+    {
+      "lectureId": "huruf_hijaiyah",
+      "title": "Pengenalan 28 Huruf Hijaiyah",
+      "description": "Pelajari 28 huruf dasar bahasa Arab dengan metode interaktif dan progresif",
+      "level": "beginner",
+      "estimatedDuration": "45 minutes",
+      "totalPages": 2,
+      "totalContents": 10,
+      "category": "fundamentals",
+      "prerequisites": [],
+      "learningObjectives": [
+        "Mengenali bentuk huruf Hijaiyah",
+        "Mengucapkan bunyi huruf dengan benar",
+        "Membedakan huruf berdasarkan titik dan bentuk",
+        "Memahami posisi huruf dalam kata"
+      ]
+    },
+    {
+      "lectureId": "harakat_dasar",
+      "title": "Harakat: Fathah, Kasrah, Dhammah",
+      "description": "Kuasai tanda baca Arab untuk membaca dengan benar",
+      "level": "beginner",
+      "estimatedDuration": "30 minutes",
+      "totalPages": 1,
+      "totalContents": 2,
+      "category": "fundamentals",
+      "prerequisites": [
+        "huruf_hijaiyah"
+      ],
+      "learningObjectives": [
+        "Memahami konsep harakat",
+        "Mengenali tiga harakat utama",
+        "Mengaplikasikan harakat dalam pembacaan",
+        "Membedakan makna berdasarkan harakat"
+      ]
+    },
+    {
+      "lectureId": "grammar_001_jenis_kata",
+      "title": "Pembagian Tiga Jenis Kata",
+      "description": "Kata merupakan sebuah bagian yang jika tersusun akan membentuk sebuah kalimat.",
+      "level": "beginner",
+      "estimatedDuration": "15 minutes",
+      "totalPages": 1,
+      "totalContents": 5,
+      "category": "fundamentals",
+      "prerequisites": [],
+      "learningObjectives": [
+        "Memahami konsep dasar Pembagian Tiga Jenis Kata",
+        "Mengaplikasikan pengetahuan dalam praktik"
+      ]
+    }
+  ]
+}

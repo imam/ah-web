@@ -1,0 +1,74 @@
+{
+  "lectureId": "grammar_001_jenis_kata",
+  "title": "Pembagian Tiga Jenis Kata",
+  "pages": [
+    {
+      "id": "01K37P55N8TJPQ0Y30ES9HA2AS",
+      "pageNumber": 1,
+      "title": "Pengenalan Jenis Kata dalam Bahasa Arab",
+      "blocks": [
+        {
+          "id": "01K37P55N8E18V3J6BP3ABF76P",
+          "blockNumber": 1,
+          "title": "Memahami Konsep 'Kata'",
+          "contents": [
+            {
+              "id": "01K37P55N829Y5EH7YFK2G2V43",
+              "type": "text",
+              "contentNumber": 1,
+              "markdown": "Kata merupakan sebuah bagian yang jika tersusun akan membentuk sebuah kalimat."
+            },
+            {
+              "id": "01K37P55N8F8J2V2SWEHAE5KDC",
+              "type": "quiz",
+              "contentNumber": 2,
+              "quizData": {
+                "question": "Yang manakah dari pilihan berikut yang BUKAN merupakan satu kata pada bahasa Indonesia?",
+                "options": [
+                  "Budi",
+                  "Ikan",
+                  "Memakan",
+                  "Bermain bola"
+                ],
+                "correctAnswerIndex": 3,
+                "explanation": "'Bermain bola' adalah sebuah frasa (gabungan dua kata), sedangkan 'Budi', 'Ikan', dan 'Memakan' masing-masing adalah satu kata."
+              }
+            }
+          ]
+        },
+        {
+          "id": "01K37P55N8Y2BKM415WAM6456F",
+          "blockNumber": 2,
+          "title": "Tiga Jenis Kata dalam Bahasa Arab",
+          "contents": [
+            {
+              "id": "01K37P55N8R1Y3RSZY186JJVF4",
+              "type": "text",
+              "contentNumber": 1,
+              "markdown": "Dalam Bahasa Arab, kata (disebut **الكَلِمَة** - al-kalimah) terbagi menjadi 3 jenis:\n\n1.  **Isim (اِسْم)**: Kata Benda/Nama\n2.  **Fi'il (فِعْل)**: Kata Kerja\n3.  **Huruf (حَرْف)**: Kata Tugas/Sambung\n\nSetiap kata dalam bahasa Arab PASTI termasuk dalam salah satu dari ketiga jenis kata tersebut."
+            }
+          ]
+        },
+        {
+          "id": "01K37P55N8SPCDVSFV9NRGG0EA",
+          "blockNumber": 3,
+          "title": "Contoh Penerapan",
+          "contents": [
+            {
+              "id": "01K37P55N88AN57KABNMHD9YCP",
+              "type": "text",
+              "contentNumber": 1,
+              "markdown": "### Contoh 1: Kalimat Basmalah\n\nMari kita lihat bacaan Basmalah:\n\n\u003e **بِسْمِ اللَّٰهِ الرَّحْمَنِ الرَّحِيمِ**\n\nBerikut adalah pemecahan katanya:\n- **بِ** merupakan **huruf**\n- **اسْمِ** merupakan **isim**\n- **اللَّٰهِ** merupakan **isim**\n- **الرَّحْمَنِ** merupakan **isim**\n- **الرَّحِيمِ** merupakan **isim**\n\n*Catatan: `بِسْمِ` sebenarnya adalah gabungan dari `بِ` + `اسْمِ`. Huruf alif (ا) pada kata `اسْمِ` sering dihilangkan dalam penulisan Basmalah karena sangat sering diulang.*"
+            },
+            {
+              "id": "01K37P55N8VFZ09JA3NB025CFC",
+              "type": "text",
+              "contentNumber": 2,
+              "markdown": "### Contoh 2: Ayat dari Surat Al-Fatihah\n\nSekarang, mari kita lihat fi'il (kata kerja) pada ayat berikut:\n\n\u003e **اِيَّاكَ نَعْبُدُ وَ اِيَّاكَ نَسْتَعِيْنُ**\n\nBerikut adalah pemecahan katanya:\n- **اِيَّاكَ** merupakan **isim**\n- **نَعْبُدُ** (kami menyembah) merupakan **fi'il**\n- **وَ** (dan) merupakan **huruf**\n- **اِيَّاكَ** merupakan **isim**\n- **نَسْتَعِيْنُ** (kami memohon pertolongan) merupakan **fi'il**"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

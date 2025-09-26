@@ -1,0 +1,115 @@
+{
+  "exerciseSets": [
+    {
+      "id": "huruf_hijaiyah_practice",
+      "title": "Latihan Huruf Hijaiyah",
+      "description": "Praktik mengenal 28 huruf Arab dengan latihan pilihan ganda",
+      "difficulty": "beginner",
+      "category": "Huruf Hijaiyah",
+      "timeLimit": 120,
+      "passingScore": 70,
+      "iconName": "quiz",
+      "colorHex": "#4CAF50",
+      "exerciseCount": 10,
+      "filePath": "huruf_hijaiyah_exercises.json"
+    },
+    {
+      "id": "harakat_practice",
+      "title": "Latihan Harakat",
+      "description": "Belajar harakat fathah, kasrah, dan dhammah",
+      "difficulty": "intermediate",
+      "category": "Harakat",
+      "timeLimit": 240,
+      "passingScore": 75,
+      "iconName": "quiz",
+      "colorHex": "#FF9800",
+      "exerciseCount": 10,
+      "filePath": "harakat_exercises.json"
+    },
+    {
+      "id": "vocabulary_practice",
+      "title": "Latihan Kosakata",
+      "description": "Mengenal kosakata Arab dasar sehari-hari",
+      "difficulty": "intermediate",
+      "category": "Kosakata",
+      "timeLimit": 420,
+      "passingScore": 80,
+      "iconName": "quiz",
+      "colorHex": "#2196F3",
+      "exerciseCount": 15,
+      "filePath": "vocabulary_exercises.json"
+    },
+    {
+      "id": "advanced_grammar",
+      "title": "Latihan Tata Bahasa",
+      "description": "Latihan lanjutan tentang struktur kalimat Arab",
+      "difficulty": "advanced",
+      "category": "Tata Bahasa",
+      "timeLimit": 600,
+      "passingScore": 85,
+      "iconName": "quiz",
+      "colorHex": "#9C27B0",
+      "exerciseCount": 20,
+      "filePath": "grammar_exercises.json"
+    },
+    {
+      "id": "kuis_ciri_ciri_isim",
+      "title": "Kuis Ciri-Ciri Isim",
+      "description": "Menguji pemahaman tentang tanda-tanda atau ciri-ciri kata benda (isim) dalam tata bahasa Arab.",
+      "difficulty": "beginner",
+      "category": "Tata Bahasa",
+      "timeLimit": 600,
+      "passingScore": 75,
+      "iconName": "grammar",
+      "colorHex": "#9C27B0",
+      "exerciseCount": 10,
+      "filePath": "kuis_ciri_ciri_isim.json"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Huruf Hijaiyah",
+      "description": "Pengenalan huruf-huruf Arab dasar",
+      "color": "#4CAF50",
+      "icon": "quiz"
+    },
+    {
+      "name": "Harakat",
+      "description": "Belajar tanda baca Arab",
+      "color": "#FF9800",
+      "icon": "quiz"
+    },
+    {
+      "name": "Kosakata",
+      "description": "Memperkaya perbendaharaan kata Arab",
+      "color": "#2196F3",
+      "icon": "translate"
+    },
+    {
+      "name": "Tata Bahasa",
+      "description": "Memahami struktur kalimat Arab",
+      "color": "#9C27B0",
+      "icon": "grammar"
+    }
+  ],
+  "difficulties": [
+    {
+      "level": "beginner",
+      "name": "Pemula",
+      "description": "Untuk yang baru memulai belajar Arab",
+      "color": "#4CAF50"
+    },
+    {
+      "level": "intermediate",
+      "name": "Menengah",
+      "description": "Untuk yang sudah memahami dasar-dasar",
+      "color": "#FF9800"
+    },
+    {
+      "level": "advanced",
+      "name": "Lanjut",
+      "description": "Untuk yang sudah mahir dengan dasar-dasar",
+      "color": "#F44336"
+    }
+  ]
+}
